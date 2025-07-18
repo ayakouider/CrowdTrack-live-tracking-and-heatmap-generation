@@ -4,7 +4,9 @@ The project was built with YOLOv5 for person detection, DeepSORT for tracking, a
 
 ### 📁 Repository Contents:
 - yolov5_training.ipynb : Final YOLOv5 training notebook on fisheye-adapted dataset.
-- 
+- tracking.py : live Tracking using Torchreid and DeepSORT.
+- heatmap.py : live heatmap generation.
+- Capstone
 
 
 
