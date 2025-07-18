@@ -6,7 +6,22 @@ The project was built with YOLOv5 for person detection, DeepSORT for tracking, a
 - yolov5_training.ipynb : Final YOLOv5 training notebook on fisheye-adapted dataset.
 - tracking.py : live Tracking using Torchreid and DeepSORT.
 - heatmap.py : live heatmap generation.
-- Capstone
+- Final presentation.ppt : project presentation.
+- CapstoneFinal.docs: project report.
+
+###  Project Overview:
+This capstone project focuses on detecting, tracking, and visualizing the presence of individuals in indoor environments using fisheye camera footage.
+The system generates real-time occupancy heatmaps and assigns unique IDs to people across frames for robust room monitoring.
+
+# Main Libraries:
+- YOLOv5
+- DeepSORT
+- Torch
+- OpenCV
+- matplotlib
+
+
+
 
 
 
